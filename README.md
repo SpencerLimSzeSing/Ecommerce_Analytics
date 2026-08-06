@@ -1,13 +1,7 @@
 # **Crop Yield Prediction**
 Unpredictable climate conditions have significantly affected agricultural productivity, contributing to global food insecurity (World Food Program USA, 2024). This project aims to identify key drivers of global crop yield and to forecast yields across different locations and crops. The workflow includes descriptive analysis, correlation analysis, feature engineering, and machine learning modeling. 
 
-**Tools, Techniques & Platforms Used**
 
-- **Programming Language:** Python
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Models:** Random Forest, Linear Regression, Decision Tree
-- **Evaluation Metrics:** R² score ,MAE, MSE, RMSE
-- **Resampling Technique:** Bootstrap
 
 ## Project Structure /method
 
