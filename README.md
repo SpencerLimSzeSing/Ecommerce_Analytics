@@ -8,8 +8,7 @@ This project explores the Olist e-commerce dataset to understand marketplace per
 
 **🎬 Dashboard Preview**
 
-<!-- Add your Power BI dashboard screenshot here -->
-<!-- Example: ![Dashboard Preview](Icons/dashboard_preview.png) -->
+![Olist Dashboard Demo](https://s3.ezgif.com/tmp/ezgif-372f5059a6c0a42a.gif)
 
 **🎬 Interactive Dashboard:** [View Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=e2ac5f6d-176c-4a54-b36a-3d3841f328a3&autoAuth=true&ctid=e0793d39-0939-496d-b129-198edd916feb)
 
